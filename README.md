@@ -7,6 +7,8 @@ https://arxiv.org/pdf/1910.10766.pdf?ref=https://githubhelp.com)]
 
 [Adversarial Deep Learning for Over-the-Air Spectrum Poisoning Attacks](https://ieeexplore.ieee.org/abstract/document/8887196/) [[PDF](https://arxiv.org/pdf/1911.00500)]
 
+[Adversarial attacks on deep-learning based radio signal classification](https://ieeexplore.ieee.org/abstract/document/8449065/) [[PDF](https://arxiv.org/pdf/1808.07713)]
+
 [Robust Adversarial Attacks Against DNN-Based Wireless Communication Systems](https://dl.acm.org/doi/abs/10.1145/3460120.3484777?casa_token=w6vY99St3WIAAAAA:UL8kxGKfmCOaqPuVuSSohjh7HZpOTNR7KWHkkoYUgxgWBNZittKS5U5a-n6H2hf0X1a-36J01SD6rQ) [[PDF](https://dl.acm.org/doi/pdf/10.1145/3460120.3484777?casa_token=OcWboLd8vvYAAAAA:D5R6_3E00KScrQWK3bvt_w_9131UA22NLf7zg9sOjmNHXDSfw7ks03QLHK63ve2OuG7fbqjvNhT5hQ)]
 
 ## Autoencoder
